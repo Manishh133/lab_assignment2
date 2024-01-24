@@ -1,2 +1,2 @@
 # lab_assignment2
-heidob
+this is my second practical
